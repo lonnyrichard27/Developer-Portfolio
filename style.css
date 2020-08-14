@@ -239,6 +239,7 @@ h6{ font-size: 16px;}
     grid-template-columns: repeat(auto-fit, 320px);
     gap: 20px;
     justify-content: center;
+    margin-top: 2rem;
 }
 .post{
     border: 1px solid var(--borderColor);
